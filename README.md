@@ -2,7 +2,7 @@
 
 One of my first data visualization projects in Excel, analyzing sales performance across South America with key metrics like revenue, profit, and customer satisfaction.
 
-![Sales Dashboard Screenshot](./images/Sales-Dashboard.png)  
+![Sales Dashboard Screenshot](./images/Sales-Dashboard.PNG) 
 *(Dashboard overview — Figure 1 in millions of USD)*
 
 ## 🔍 **Project Overview**
